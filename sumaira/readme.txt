@@ -14,9 +14,9 @@ http://localhost/sumaira/admin/index.php
 
 admin access:
 
-sumaira2008@gmail.com
-Password: sumaira
+sumairag@gmail.com   
+Password: 1234567
 
 user access:
-sumaira2000008@gmail.com
-123456789
+sumaira28@gmail.com      
+sumaira
